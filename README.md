@@ -1,12 +1,6 @@
-# Pygame Tetris
+# Tetris Game
 
 A classic Tetris implementation using Pygame.
-
-## Requirements
-
-- Python 3.8+
-- Pygame 2.0+
-- Pytest 7.0+ (for running tests)
 
 ## Installation
 
