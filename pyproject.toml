@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tetris-pygame"
+version = "0.1.0"
+description = "Tetris game developed using Pygame"
+authors = ["marccodess"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pygame = ">=2.0.0"
+pytest = ">=7.0.0"
+pytest-cov = ">=4.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
