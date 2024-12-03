@@ -11,7 +11,7 @@ A classic Tetris implementation using Pygame.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/pygame-tetris.git
+git clone https://github.com/marccodess/pygame-tetris.git
 cd pygame-tetris
 ```
 
@@ -49,7 +49,3 @@ python main.py
 ## Contributing
 
 Feel free to open issues or submit pull requests if you'd like to contribute to the project.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
